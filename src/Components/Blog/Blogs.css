@@ -1,0 +1,82 @@
+
+.black{
+    background-color: rgb(39, 40, 41,0.6);
+}
+.white{
+    background-color: white;
+}
+.Addons{
+    display: flex;
+    justify-content: right;
+}
+button{
+    height: 30px;
+    background-color: transparent;
+    border:none;
+}
+.blogs{
+    width: 100%;
+    max-width: 100%;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.icons{
+    font-size: 40px;
+    color:steelblue;
+}
+.parent{
+    width: 50%;
+    margin:0px 0px 0px;
+    padding: 0px 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.parent span{
+    
+    font-size: 20px;
+    padding: 0px 20px;
+}
+a{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.button-div{
+    margin: 10px 0px;
+    display: flex;
+    justify-content: center;
+}
+em{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+.button{
+    background-color: #0AA1DD;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.Loadmore{
+    background-color: #0AA1DD;
+    position: fixed;
+    top:92%;
+    right: 05%;
+    width: 95px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding:0px 1px 5px;
+
+}
+.load-icons{
+    padding:7px 1px 0px;
+    font-size: 20px;
+    font-weight: 500;
+}
