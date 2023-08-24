@@ -1,3 +1,4 @@
+![Screenshot 2023-08-24 131743](https://github.com/BhanuPrakashKundarapu/Job-portal/assets/101889924/3331f0c8-5db4-4623-b3d2-4d3f59624f93)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
